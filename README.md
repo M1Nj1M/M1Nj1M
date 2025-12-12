@@ -22,7 +22,6 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 - K-POP 라이브 커머스 플랫폼 **Universe** 백엔드 & 스트리밍 서버 개발  
 - Mediasoup + FFmpeg를 활용한 **실시간 방송 송출 및 녹화 파이프라인 구축**  
 - Spring Cloud 기반 **MSA 구조(Eureka, Gateway, Core, Stream, Chat)** 설계  
-- Redis Pub/Sub 기반 **실시간 채팅 및 상태 관리** 경험  
 - Object Storage와 연동한 **대용량 미디어 파일 업로드·저장 구조 설계**  
 - 호주 시드니 **ILSC 어학연수(Intermediate–Advanced)** 로 글로벌 협업 역량 강화  
 
