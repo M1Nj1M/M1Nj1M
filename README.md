@@ -33,7 +33,7 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 
 ## 🛠 Tech Stack
 
-### 🛠 Backend
+### 💻 Backend
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -131,7 +131,6 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 
 - **Mediasoup 기반 방송 송출 서버(SFU)** 구축  
 - FFmpeg 기반 **MCU-style 녹화 파이프라인** 구현  
-  - SDP 자동 생성, 포트 바인딩, `.partial → 완료 파일` rename 처리  
 - Spring Cloud 기반 **Eureka + API Gateway** 로 서비스 라우팅  
 - Redis Pub/Sub 기반 **실시간 채팅 시스템** 및 욕설 필터링 로직 구현  
 - VOD 파일 **Object Storage 업로드 및 DB(SR_RECORD) 자동 갱신**  
@@ -174,6 +173,11 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 - **호주 시드니 ILSC 어학연수 (2025.02 ~ 2025.07)**  
   - Intermediate–Advanced 과정 수료  
   - 다양한 국적의 팀원들과 프로젝트 수행하며 협업·커뮤니케이션 경험 확대  
+
+## 📚 Additional Experience
+
+- 🏆 **빅데이터 아이디어 공모전 장려상**  
+- 🎓 **IoT 스마트센서 기반 위성 파인더 개발 연구 참여 (학생연구원, 2021.09 ~ 2022.05)**
 
 ---
 
