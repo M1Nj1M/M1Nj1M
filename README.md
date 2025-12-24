@@ -16,7 +16,7 @@ Java·Spring 기반 웹 서비스 개발과
 
 [![Email](https://img.shields.io/badge/Email-lovekmj23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovekmj23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-M1Nj1M-2F2F2F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M1Nj1M)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-4A5D73?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2d34c8b0b3a880daa585d967387cf4b2?source=copy_link)
+
 
 </div>
 
@@ -206,4 +206,4 @@ Java·Spring 기반 웹 서비스 개발과
 
 - **Email** : [lovekmj23@gmail.com](mailto:lovekmj23@gmail.com)  
 - **GitHub** : https://github.com/M1Nj1M  
-- **Portfolio** : https://www.notion.so/2d34c8b0b3a880daa585d967387cf4b2?source=copy_link
+- **Portfolio** : 
