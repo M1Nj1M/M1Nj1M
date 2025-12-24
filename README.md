@@ -6,16 +6,17 @@
 
 <div align="center">
 
-### 👋 안녕하세요, 안정적인 흐름을 설계하는 백엔드 개발자 **김민지**입니다.
+### 👋 안녕하세요, 시스템의 흐름을 기준으로 개발하는 백엔드 개발자 김민지입니다.
 
-보험사 (계리결산·재보험) **기간계 운영 경험**과  
-Java·Spring 기반 웹 서비스 개발 경험을 바탕으로  
-**데이터 정합성과 실시간 서비스 안정성**에 집중합니다.
+Java·Spring 기반 웹 서비스 개발과  
+실제 운영 환경을 고려한 설계 경험을 통해  
+**안정성과 확장성을 함께 고민하는 백엔드 개발**을 지향합니다.
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-lovekmj23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovekmj23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-M1Nj1M-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M1Nj1M)
+[![GitHub](https://img.shields.io/badge/GitHub-M1Nj1M-2F2F2F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M1Nj1M)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-4A5D73?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2cd4c8b0b3a880fcbbd3f8e5d05efc60?source=copy_link)
 
 </div>
 
@@ -23,16 +24,27 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 
 ## 🧩 About Me
 
-- 생명보험사 (계리결산·재보험) **기간계 배치 시스템 운영(1년 7개월)**  
-- K-POP 라이브 커머스 플랫폼 **Universe** 백엔드 & 스트리밍 서버 개발  
-- Mediasoup + FFmpeg 기반 **실시간 방송 송출 및 녹화 파이프라인 구축**  
-- Spring Cloud 기반 **MSA 설계(Eureka, Gateway, Core, Stream, Chat)**  
-- Object Storage 연동 **대용량 미디어 업로드·저장 구조 설계**  
-- 호주 시드니 **ILSC 어학연수(Intermediate–Advanced)** 수료 (글로벌 협업 역량)
+기존 시스템의 맥락을 이해한 뒤  
+더 나은 구조로 **분리·확장하는 개발**을 고민해왔습니다.
 
-> **“데이터 흐름이 흔들리지 않는 서비스가 좋은 서비스다.”**  
-> 운영 경험(금융) + 실시간 서비스(스트리밍)를 연결해  
-> **안정성과 신뢰성을 최우선**으로 설계하는 백엔드 개발자를 지향합니다.
+운영 환경에서 발생하는 오류와 장애를 직접 경험하며  
+데이터 흐름과 처리 순서가 시스템 안정성에 미치는 영향을 이해했고,  
+웹 서비스 개발 과정에서는 이를 반영해  
+**역할을 분리하고 예외 처리를 명확히 하는 구조**로 구현했습니다.
+
+레거시 환경과 웹 서비스 환경을 모두 경험한 만큼  
+기존 시스템을 존중하면서도 새로운 기술 스택에 빠르게 적응하는  
+백엔드 개발자로 성장하고 있습니다.
+
+---
+
+## ✨ Summary
+
+- 운영 경험을 통해 **데이터 정합성과 시스템 흐름을 이해한 백엔드 개발자**
+- Java·Spring Boot 기반 웹 백엔드 개발과  
+  **실시간 스트리밍 서비스(Universe) 구현 경험**
+- 기존 시스템의 맥락을 이해한 상태에서  
+  **새로운 서비스 구조로 확장하는 개발 방식**을 지향
 
 ---
 
@@ -42,77 +54,71 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 <div align="left">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 </div>
 
-### 📡 Streaming & Real-time
-<div align="left">
-
-![Mediasoup](https://img.shields.io/badge/Mediasoup-88CCEE?style=flat)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=flat)
-![STOMP](https://img.shields.io/badge/STOMP-FF0000?style=flat)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat&logo=socketdotio&logoColor=white)
-
-</div>
-
-### 🗄 Database & Cache
-<div align="left">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-</div>
-
 ### 🌐 Frontend
 <div align="left">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-00599C?style=flat)
 
 </div>
 
-### 🚀 Infrastructure / DevOps
+### 🗄 Databases
 <div align="left">
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 </div>
 
-### 🧰 Tools & Collaboration
+### 🏛 Legacy / Client–Server
+<div align="left">
+
+![PowerBuilder](https://img.shields.io/badge/PowerBuilder-2C2C2C?style=flat)
+![Pro*C](https://img.shields.io/badge/Pro*C-336791?style=flat)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+
+</div>
+
+### 🚀 Infra / DevOps
+<div align="left">
+
+![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+</div>
+
+### 🤝 Collaboration
 <div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 </div>
 
----
+### 🧰 Tools
+<div align="left">
 
-## ✨ Summary
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
 
-- Java/Spring 기반 백엔드를 중심으로 **실시간 스트리밍(Mediasoup + FFmpeg)**, **Redis 채팅**,  
-  **MSA(Spring Cloud: Eureka, Gateway)** 설계·구현 경험이 있습니다.  
-- MySQL·Oracle 기반 데이터 모델링, Nginx 리버스 프록시 구성,  
-  Postman·Swagger 기반 API 테스트/문서화, 협업(Notion·Figma)까지  
-  **서비스 개발 전 과정을 경험**했습니다.
+</div>
 
 ---
 
@@ -125,7 +131,6 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 - Mediasoup 기반 **방송 송출 서버(SFU)** 구축  
 - FFmpeg 기반 **MCU-style 녹화 파이프라인** 구현  
 - Spring Cloud 기반 **Eureka + API Gateway** 라우팅  
-- Redis Pub/Sub 기반 **실시간 채팅** 및 욕설 필터링  
 - VOD 파일 **Object Storage 업로드 + DB(SR_RECORD) 자동 갱신**  
 - 스트림 상태(LIVE/ENDED) 관리 및 예외 상황 처리  
 - Admin / Partner / User **3계층 프런트 구조** 설계
@@ -147,9 +152,12 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 - 운영 기준·장애 사례 정리 및 **운영 문서 표준화**
 
 **📌 성과**
-- 반복 정산 지연 이슈의 근본 원인 제거  
-- 금융 도메인 업무 흐름 및 데이터 구조에 대한 심층 이해 확보  
-- 로그 분석 기반 장애 대응 역량 강화
+- 반복되던 월말 정산 지연 이슈의 근본 원인을 제거하고  
+  **배치 프로세스 개선을 통해 월말 정산 소요 시간 약 15% 단축**
+- 금융 도메인 업무 흐름 및 대규모 데이터 구조에 대한  
+  **실무 수준의 이해 확보**
+- 로그 분석을 기반으로 한 장애 원인 파악 및 대응 경험을 통해  
+  **운영 환경에서의 문제 해결 역량 강화**
 
 ---
 
@@ -185,37 +193,12 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 
 - 🪐 **Universe (K-POP 라이브커머스)**  
   https://github.com/Sinsegae-FeelSangITMal/Universe  
-  <sub>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/>
-  </sub>  
-  실시간 방송·채팅·구매 + 송출/녹화 파이프라인 + 3계층 프런트 구조  
-  <sub>+ Spring Cloud(Eureka/Gateway), Mediasoup·FFmpeg 기반 스트리밍/녹화</sub>
 
 - 🎮 **HotSource (게임 리소스 쇼핑몰)**  
   https://github.com/Sinsegae-FeelSangITMal/HotSource  
-  <sub>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mybatis/mybatis-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18"/>
-  </sub>  
-  리소스 상품 등록·구매 기능을 갖춘 쇼핑몰 웹 서비스
 
 - 🧴 **OliveMain (올리브영 창고 관리 시스템)**  
   https://github.com/Sinsegae-FeelSangITMal/OliveMain  
-  <sub>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="18"/>
-  </sub>  
-  창고 **입·출고 및 재고 관리 흐름**을 구현한 Java EE(Servlet) 기반 관리 시스템
 
 ---
 
@@ -223,4 +206,4 @@ Java·Spring 기반 웹 서비스 개발 경험을 바탕으로
 
 - **Email** : [lovekmj23@gmail.com](mailto:lovekmj23@gmail.com)  
 - **GitHub** : https://github.com/M1Nj1M  
-- **Portfolio** : (Notion 또는 웹사이트 링크 추후 추가 예정)
+- **Portfolio** : https://www.notion.so/2cd4c8b0b3a880fcbbd3f8e5d05efc60?source=copy_link
