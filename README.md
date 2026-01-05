@@ -194,4 +194,4 @@ Java·Spring 기반 웹 서비스 개발과
 
 - **Email** : [lovekmj23@gmail.com](mailto:lovekmj23@gmail.com)  
 - **GitHub** : https://github.com/M1Nj1M  
-- **Portfolio** : 
+- **Portfolio** : https://www.notion.so/2df4c8b0b3a880238646e0067375e91f?source=copy_link
