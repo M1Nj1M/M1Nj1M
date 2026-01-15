@@ -1,153 +1,100 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Minji%20Kim&fontSize=80&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6C9FF,100:B8C6FF&height=200&section=header&text=Minji%20Kim&fontSize=80&fontColor=ffffff" />
 </div>
-
-<br/>
 
 <div align="center">
 
-### 👋 안녕하세요, 시스템의 흐름을 기준으로 개발하는 백엔드 개발자 김민지입니다.
-
-Java·Spring 기반 웹 서비스 개발과  
-실제 운영 환경을 고려한 설계 경험을 통해  
-**안정성과 확장성을 함께 고민하는 백엔드 개발**을 지향합니다.
+### 👋 안녕하세요, 정확한 데이터 흐름과 안정적인 로직을 설계하는 개발자 김민지입니다.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-lovekmj23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovekmj23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-M1Nj1M-2F2F2F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M1Nj1M)
-
+<a href="mailto:lovekmj23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-lovekmj23%40gmail.com-7A6FAE?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+</a>
+<a href="https://github.com/M1Nj1M">
+  <img src="https://img.shields.io/badge/GitHub-M1Nj1M-7A6FAE?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+<a href="https://www.notion.so/2df4c8b0b3a880238646e0067375e91f?source=copy_link">
+  <img src="https://img.shields.io/badge/Portfolio-Notion-7A6FAE?style=for-the-badge&logo=notion&logoColor=ffffff"/>
+</a>
 
 </div>
 
----
 
 ## 🧩 About Me
 
-기존 시스템의 맥락을 이해한 뒤  
-더 나은 구조로 **분리·확장하는 개발**을 고민해왔습니다.
+데이터 흐름과 안정성을 기준으로  
+로직과 책임을 분리하는 백엔드 개발을 지향합니다.
 
-운영 환경에서 발생하는 오류와 장애를 직접 경험하며  
-데이터 흐름과 처리 순서가 시스템 안정성에 미치는 영향을 이해했고,  
-웹 서비스 개발 과정에서는 이를 반영해  
-**역할을 분리하고 예외 처리를 명확히 하는 구조**로 구현했습니다.
+금융 시스템 운영 경험을 통해 대규모 배치 처리와 데이터 정합성 관리 방식을 이해했고,  
+웹 서비스 개발 과정에서는 팀 협업 기반의 역할 분리, 예외 처리, MSA 구조 설계를 경험했습니다.
 
-레거시 환경과 웹 서비스 환경을 모두 경험한 만큼  
-기존 시스템을 존중하면서도 새로운 기술 스택에 빠르게 적응하는  
-백엔드 개발자로 성장하고 있습니다.
+안정적인 데이터 처리와 확장 가능한 구조를 중심으로  
+실제 개발 환경에서 신뢰할 수 있는 서비스를 만들어 가겠습니다.
+
+<br/>
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-<div align="left">
-
+**Main Stack**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-</div>
-
-### 🌐 Frontend
-<div align="left">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=flat)
-
-</div>
-
-### 🗄 Databases
-<div align="left">
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-</div>
-
-### 🏛 Legacy / Client–Server
-<div align="left">
-
-![PowerBuilder](https://img.shields.io/badge/PowerBuilder-2C2C2C?style=flat)
-![Pro*C](https://img.shields.io/badge/Pro*C-336791?style=flat)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
-
-</div>
-
-### 🚀 Infra / DevOps
-<div align="left">
-
-![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-</div>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🤝 Collaboration
-<div align="left">
+**Infra / Legacy**  
+![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white)
+![Pro*C](https://img.shields.io/badge/Pro*C-336791?style=flat)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![PowerBuilder](https://img.shields.io/badge/PowerBuilder-2C2C2C?style=flat)
 
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-
-</div>
-
-### 🧰 Tools
-<div align="left">
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
 
-</div>
 
----
+<br/>
 
 ## 🚀 Projects
 
-### 🪐 Universe — K-POP 실시간 라이브 커머스 플랫폼
+### 🪐 Universe — K-POP 실시간 라이브 커머스 플랫폼 (2025.09 ~ 2025.10)
 > 실시간 방송 · 채팅 · 상품 구매가 동시에 가능한 K-POP 라이브 커머스 서비스
 
-**🔧 주요 구현**
-- Mediasoup 기반 **방송 송출 서버(SFU)** 구축  
-- FFmpeg 기반 **MCU-style 녹화 파이프라인** 구현  
-- Spring Cloud 기반 **Eureka + API Gateway** 라우팅  
-- VOD 파일 **Object Storage 업로드 + DB(SR_RECORD) 자동 갱신**  
-- 스트림 상태(LIVE/ENDED) 관리 및 예외 상황 처리  
-- Admin / Partner / User **3계층 프런트 구조** 설계
+- Mediasoup(SFU)·FFmpeg(MCU) 기반 라이브 송출 및 녹화 파이프라인 구축
+- Spring Cloud(Eureka + API Gateway) 기반 서비스 라우팅 및 역할 분리 구조 설계
+- WebSocket 실시간 채팅, 스트림 상태 관리 및 예외 상황 대응 로직 구현
+- Admin / Partner / User 권한 분리 및 운영 흐름 고려한 서비스 구조 설계
 
 **📌 성과**
-- 실시간 끊김·패킷 유실 이슈 원인 분석 및 대응 로직 구축  
-- 녹화 실패 로그 유형화 → 저장 성공률 및 장애 대응 속도 향상  
-- 서비스 역할 분리 기반의 **확장 가능한 MSA 구조** 마련
+- 실시간 장애 원인 분석 및 대응 체계 구축, 확장 가능한 서비스 구조 확보
 
 ---
 
-### 🏦 생명보험사 기간계(재보험·계리결산) 운영 (2022.06 ~ 2023.12)
-> Pro*C · PL/SQL 기반 대규모 금융 배치 시스템 운영 및 장애 대응
+### 🏦 생명보험사 기간계 시스템 운영 (2022.06 ~ 2023.12)
+> Pro*C · PL/SQL 기반 **배치 시스템 개발 및 운영**
 
 **🔧 주요 역할**
-- 월말 정산 지연 장애 반복 대응 및 재발 방지  
-- 스키마 불일치·정합성 오류·매핑 오류 **근본 원인 분석 및 수정**  
-- 대량 데이터 처리 쿼리 튜닝 및 배치 성능 개선  
-- 운영 기준·장애 사례 정리 및 **운영 문서 표준화**
+- 월말 정산 배치 운영 및 일정 관리, 지연 장애 병목 구간 분석
+- 신규·변경 요구사항 반영을 위한 대량 데이터 배치 로직 수정 및 데이터 정합성 이슈 대응
 
 **📌 성과**
-- 반복되던 월말 정산 지연 이슈의 근본 원인을 제거하고  
-  **배치 프로세스 개선을 통해 월말 정산 소요 시간 약 15% 단축**
-- 금융 도메인 업무 흐름 및 대규모 데이터 구조에 대한  
-  **실무 수준의 이해 확보**
-- 로그 분석을 기반으로 한 장애 원인 파악 및 대응 경험을 통해  
-  **운영 환경에서의 문제 해결 역량 강화**
+- 월말 정산 처리 시간 약 65% 단축, 핵심 배치 구간 안정화
 
----
+<br/>
 
 ## 🎓 Education & Training
 
@@ -158,15 +105,8 @@ Java·Spring 기반 웹 서비스 개발과
 - **호주 시드니 ILSC 어학연수 (2024.02 ~ 2024.07)**  
   - Intermediate–Advanced 과정 수료  
   - 다국적 팀 프로젝트 경험으로 협업·커뮤니케이션 역량 강화
-
----
-
-## 📚 Additional Experience
-
-- 🏆 **빅데이터 아이디어 공모전 장려상**  
-- 🎓 **IoT 스마트센서 기반 위성 파인더 개발 연구 참여 (학생연구원, 2021.09 ~ 2022.05)**
-
----
+ 
+<br/>
 
 ## 🏅 Certificates
 
@@ -175,7 +115,7 @@ Java·Spring 기반 웹 서비스 개발과
 - 리눅스마스터 2급  
 - 네트워크관리사 2급
 
----
+<br/>
 
 ## 📁 Repositories
 
@@ -185,10 +125,7 @@ Java·Spring 기반 웹 서비스 개발과
 - 🎮 **HotSource (게임 리소스 쇼핑몰)**  
   https://github.com/Sinsegae-FeelSangITMal/HotSource  
 
-- 🧴 **OliveMain (올리브영 창고 관리 시스템)**  
-  https://github.com/Sinsegae-FeelSangITMal/OliveMain  
-
----
+<br/>
 
 ## 📫 Contact
 
