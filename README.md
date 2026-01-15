@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6C9FF,100:B8C6FF&height=200&section=header&text=Minji%20Kim&fontSize=80&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=245&section=header&color=0:3B0764,40:7C3AED,85:E9D5FF,100:F8FAFF&text=Minji%20Kim&fontSize=78&fontColor=ffffff&fontAlignY=34&desc=Backend%20%7C%20Ops-minded&descSize=22&descAlignY=58" />
 </div>
 
 <div align="center">
