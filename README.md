@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
   <img src="images/title.gif" width="1200" height="240" alt="Welcome to Minji's Github" />
 </div>
 
