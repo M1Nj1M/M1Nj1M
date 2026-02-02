@@ -1,6 +1,12 @@
 <div align="center">
+<div align="center">
+  <img src="images/title.gif" width="1200" height="240" alt="Welcome to Minji's Github" />
+</div>
+
+<!--  
   <img src="https://capsule-render.vercel.app/api?type=blur&height=245&section=header&color=0:3B0764,40:7C3AED,85:E9D5FF,100:F8FAFF&text=Minji%20Kim&fontSize=78&fontColor=ffffff&fontAlignY=34&desc=Backend%20%7C%20Ops-minded&descSize=22&descAlignY=58" />
 </div>
+-->
 
 <div align="center">
 
