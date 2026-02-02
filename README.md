@@ -9,9 +9,9 @@
 
 <div align="center">
 
+<!--
 ### 👋 안녕하세요, 정확한 데이터 흐름과 안정적인 로직을 설계하는 개발자 김민지입니다.
-
-<br/>
+-->
 
 <a href="mailto:lovekmj23@gmail.com">
   <img src="https://img.shields.io/badge/Email-lovekmj23%40gmail.com-7A6FAE?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
