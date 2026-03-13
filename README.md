@@ -22,6 +22,9 @@
 <a href="https://www.notion.so/2df4c8b0b3a880238646e0067375e91f?source=copy_link">
   <img src="https://img.shields.io/badge/Portfolio-Notion-7A6FAE?style=for-the-badge&logo=notion&logoColor=ffffff"/>
 </a>
+<a href="https://m1nj1m.tistory.com/">
+  <img src="https://img.shields.io/badge/Blog-Tistory-7A6FAE?style=for-the-badge&logo=tistory&logoColor=ffffff"/>
+</a>
 
 </div>
 
@@ -134,4 +137,5 @@
 
 - **Email** : [lovekmj23@gmail.com](mailto:lovekmj23@gmail.com)  
 - **GitHub** : https://github.com/M1Nj1M  
-- **Portfolio** : https://www.notion.so/2df4c8b0b3a880238646e0067375e91f?source=copy_link
+- **Portfolio** : https://www.notion.so/2df4c8b0b3a880238646e0067375e91f?source=copy_link  
+- **Blog** : https://m1nj1m.tistory.com/
