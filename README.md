@@ -77,46 +77,6 @@
 
 <br/>
 
-<!--
-## 🚀 Projects
-
-#### 🪐 Universe — K-POP 실시간 라이브 커머스 플랫폼 (2025.09 ~ 2025.10)
-> 실시간 방송 · 채팅 · 상품 구매가 동시에 가능한 K-POP 라이브 커머스 서비스
-
-- Mediasoup(SFU)·FFmpeg(MCU) 기반 라이브 송출 및 녹화 파이프라인 구축
-- Spring Cloud(Eureka + API Gateway) 기반 서비스 라우팅 및 역할 분리 구조 설계
-- WebSocket 실시간 채팅, 스트림 상태 관리 및 예외 상황 대응 로직 구현
-- Admin / Partner / User 권한 분리 및 운영 흐름 고려한 서비스 구조 설계
-
-**📌 성과** - 실시간 장애 원인 분석 및 대응 체계 구축, 확장 가능한 서비스 구조 확보
-
-## 
-
-#### 🏦 생명보험사 기간계 시스템 운영 (2022.06 ~ 2023.12)
-> Pro*C · PL/SQL 기반 **배치 시스템 개발 및 운영**
-
-**🔧 주요 역할**
-- 월말 정산 배치 운영 및 일정 관리, 지연 장애 병목 구간 분석
-- 신규·변경 요구사항 반영을 위한 대량 데이터 배치 로직 수정 및 데이터 정합성 이슈 대응
-
-**📌 성과** - 월말 정산 처리 시간 약 65% 단축, 핵심 배치 구간 안정화
-
-<br/>
-
-## 🎓 Education & Training
-
-- **신세계 I&C 백엔드 개발자 양성 부트캠프 (2025.04 ~ 2025.10)**  
-  - Java · Spring · JPA · Redis · React 기반 실무형 교육  
-  - 팀 프로젝트로 **Universe** 백엔드·스트리밍 설계 및 구현  
-
-- **호주 시드니 ILSC 어학연수 (2024.02 ~ 2024.07)**  
-  - Intermediate–Advanced 과정 수료  
-  - 다국적 팀 프로젝트 경험으로 협업·커뮤니케이션 역량 강화
- 
-<br/>
-
--->
-
 ## 🏅 Certificates
 
 - 정보처리기사  
@@ -128,11 +88,14 @@
 
 ## 📁 Repositories
 
+- 🚚 **TentenHub (B2B 물류 주문·배송 허브 플랫폼)**  
+  https://github.com/Ten-ten-hub/Tenten
+- 🍽️ **Baegopang (AI 음식 주문·배달 플랫폼)**  
+  https://github.com/Baegopang-4/BaeGoPang
 - 🪐 **Universe (K-POP 라이브커머스)**  
   https://github.com/Sinsegae-FeelSangITMal/Universe  
-
 - 🎮 **HotSource (게임 리소스 쇼핑몰)**  
-  https://github.com/Sinsegae-FeelSangITMal/HotSource  
+  https://github.com/Sinsegae-FeelSangITMal/HotSource
 
 <br/>
 
